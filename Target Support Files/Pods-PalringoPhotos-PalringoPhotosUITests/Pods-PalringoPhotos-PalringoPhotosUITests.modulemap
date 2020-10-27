@@ -1,0 +1,6 @@
+framework module Pods_PalringoPhotos_PalringoPhotosUITests {
+  umbrella header "Pods-PalringoPhotos-PalringoPhotosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
